@@ -8,13 +8,13 @@ Password:Paul@1998
 
 Patient Login Credential
 
-Username : ram
-Password : 1234
+Patient
+Username : Benh
+Password : 123456
 
-DonorLogin Credential
-
-Username: siva
-Password: 1234
+Donor
+Username: Aswinj
+Password: 123456
 
 Features
 BloodConnect includes the following features:
